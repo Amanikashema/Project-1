@@ -1,0 +1,17 @@
+*{
+    margin = 0px;
+    padding = 0px;
+}
+
+.navbar-brand img {
+    border-radius: 50%;
+    max-width: 80px;
+    max-height: 50px;
+    margin-top: auto;
+    margin-right: auto;
+}
+
+body{
+    background-image: url(../Img/record-player-1851576_640.jpg);
+
+}
